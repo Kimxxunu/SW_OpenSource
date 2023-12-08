@@ -1,0 +1,16 @@
+서버용
+clustering, DBMS
+
+대스크탑용
+Accounting, BI BA, Backup&Recovery, CAD, CAE
+
+비지니스용
+Accounting, BPM 
+
+임베디드용
+Complier, DBMS, Development Tool, EDA
+
+클라우드용
+Graph Database, BI/OLAP, NOSQL, Search
+
+

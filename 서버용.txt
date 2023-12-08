@@ -14,4 +14,4 @@ Complier, DBMS, Development Tool, EDA
 Graph Database, BI/OLAP, NOSQL, Search
 
 
-김대성 김대성
+김대성 김대성 김선우
